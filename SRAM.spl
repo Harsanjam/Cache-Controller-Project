@@ -1,0 +1,8 @@
+[Inputs]
+clka
+=wea[0:0]=
+=addra[7:0]=
+=dina[7:0]=
+[Outputs]
+=douta[7:0]=
+[BiDir]

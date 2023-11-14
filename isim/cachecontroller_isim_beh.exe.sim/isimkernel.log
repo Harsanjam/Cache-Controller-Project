@@ -1,0 +1,28 @@
+Command line:
+   cachecontroller_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  45962
+
+Tue Oct 31 19:58:21 2023
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 218.038 Meg
+
+ Total Signals          : 294
+ Total Nets             : 4990
+ Total Signal Drivers   : 131
+ Total Blocks           : 23
+ Total Primitive Blocks : 15
+ Total Processes        : 83
+ Total Traceable Variables  : 226
+ Total Scalar Nets and Variables : 6444
+
+ Total Simulation Time: 7.04 sec
+
+ Current Memory Usage: 294.076 Meg
+
+Tue Oct 31 23:33:53 2023
+
