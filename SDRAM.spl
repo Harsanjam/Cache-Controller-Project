@@ -1,9 +1,0 @@
-[Inputs]
-clk
-SDRAM_rw
-SDRAM_memstrb
-=SDRAM_addr[15:0]=
-=SDRAM_din[7:0]=
-[Outputs]
-=SDRAM_dout[7:0]=
-[BiDir]
